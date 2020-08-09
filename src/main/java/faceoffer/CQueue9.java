@@ -1,6 +1,9 @@
 package faceoffer;
 
+import aspect.FunctionRunner;
+
 import java.util.LinkedList;
+import java.util.Stack;
 
 /**
  * 用两个栈实现一个队列。队列的声明如下，请实现它的两个函数 appendTail 和 deleteHead ，
@@ -24,25 +27,56 @@ import java.util.LinkedList;
  * */
 public class CQueue9 {
 
-    LinkedList<Integer> stack1;
-    LinkedList<Integer> stack2;
+    Stack<Integer> stack1;
+    Stack<Integer> stack2;
+    /**
+     * 每次要出队列时，将两个stack倒一下即可
+     * */
+    public static void main(String args[]){
+        new FunctionRunner(() ->{
+            CQueue9 cQueue = new CQueue9();
+            cQueue.appendTail(3);
+            System.out.println(" push 3："+cQueue);
+            cQueue.appendTail(6);
+            System.out.println(" push 6："+cQueue);
+            cQueue.appendTail(9);
+            System.out.println(" push 9："+cQueue);
+            System.out.println(" pop  "+cQueue.deleteHead()+"："+cQueue);
+            cQueue.appendTail(5);
+            System.out.println(" push 5："+cQueue);
+            System.out.println(" pop  "+cQueue.deleteHead()+"："+cQueue);
+            System.out.println(" pop  "+cQueue.deleteHead()+"："+cQueue);
+            System.out.println(" pop  "+cQueue.deleteHead()+"："+cQueue);
+            System.out.println(" pop  "+cQueue.deleteHead()+"："+cQueue);
+        }).run();
+
+    }
 
     public CQueue9() {
-        stack1 = new LinkedList<>();
-        stack2 = new LinkedList<>();
+        stack1 = new Stack<>();
+        stack2 = new Stack<>();
     }
 
     public void appendTail(int value) {
-        stack1.add(value);
+        stack1.push(value);
     }
 
     public int deleteHead() {
-        if (stack2.isEmpty()) {
-            if (stack1.isEmpty()) return -1;
-            while (!stack1.isEmpty()) {
-                stack2.add(stack1.pop());
+        if(stack2.empty()){
+            if(stack1.empty()){
+                return -1;
             }
-            return stack2.pop();
-        } else return stack2.pop();
+            int i = stack1.size();
+            for(int q = 0;q<i;q++){
+                Integer s = stack1.pop();
+                stack2.push(s);
+            }
+        }
+        Integer z = stack2.pop();
+        return z;
+    }
+
+    public String toString(){
+        return stack1+"-"+stack2;
     }
 }
