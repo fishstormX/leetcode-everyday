@@ -21,6 +21,8 @@
 5：[替换空格](src/main/java/faceoffer/ReplaceSpace5.java)
 6：[从尾到头打印链表](src/main/java/faceoffer/ReversePrint6.java)
 9：[用两个栈实现队列](src/main/java/faceoffer/CQueue9.java)
+10-1：[斐波那契数列](src/main/java/faceoffer/Fib10A1.java)
+10-2：[青蛙跳台阶问题](src/main/java/faceoffer/Upstairs10A2.java)
 
 ---
 
