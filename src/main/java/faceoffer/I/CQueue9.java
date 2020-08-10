@@ -1,8 +1,7 @@
-package faceoffer;
+package faceoffer.I;
 
 import aspect.FunctionRunner;
 
-import java.util.LinkedList;
 import java.util.Stack;
 
 /**

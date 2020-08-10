@@ -1,8 +1,8 @@
-package faceoffer;
+package faceoffer.I;
 
 import aspect.FunctionRunner;
 import aspect.ListUtil;
-import leetcode.structure.ListNode;
+import structure.ListNode;
 
 import java.util.Arrays;
 

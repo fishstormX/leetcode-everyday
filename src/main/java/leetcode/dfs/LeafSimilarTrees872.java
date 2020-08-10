@@ -1,8 +1,7 @@
 package leetcode.dfs;
 
 import aspect.FunctionRunner;
-import leetcode.bfs.BinaryTreeLevelOrderTraversalII107;
-import leetcode.structure.TreeNode;
+import structure.TreeNode;
 import util.TreeUtil;
 
 import java.util.ArrayList;

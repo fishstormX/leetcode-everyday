@@ -4,8 +4,8 @@
 运行每个类中的main函数可以执行给定的测试用例，利用AOP统计了用时
 
 #### 相关数据结构
-- :small_blue_diamond:[链表 ListNode](src/main/java/leetcode/structure/ListNode.java)  
-- :small_orange_diamond:[二叉树 TreeNode](src/main/java/leetcode/structure/TreeNode.java)  [前中后序遍历](src/main/java/leetcode/structure/binaryTree)
+- :small_blue_diamond:[链表 ListNode](src/main/java/structure/ListNode.java)  
+- :small_orange_diamond:[二叉树 TreeNode](src/main/java/structure/TreeNode.java)  [前中后序遍历](src/main/java/structure/binaryTree)
 
 #### 题型和题解  
 
@@ -20,6 +20,7 @@
 4: [二维数组中的查找](src/main/java/faceoffer/FindNumberIn2DArray4.java)  
 5：[替换空格](src/main/java/faceoffer/ReplaceSpace5.java)
 6：[从尾到头打印链表](src/main/java/faceoffer/ReversePrint6.java)
+7：[重建二叉树](src/main/java/faceoffer/BuildTree7.java)
 9：[用两个栈实现队列](src/main/java/faceoffer/CQueue9.java)
 10-1：[斐波那契数列](src/main/java/faceoffer/Fib10A1.java)
 10-2：[青蛙跳台阶问题](src/main/java/faceoffer/Upstairs10A2.java)

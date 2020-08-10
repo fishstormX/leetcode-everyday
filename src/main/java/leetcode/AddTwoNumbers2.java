@@ -1,11 +1,7 @@
 package leetcode;
 
 import aspect.FunctionRunner;
-import aspect.FunctionTest;
-import aspect.ListUtil;
-import leetcode.structure.ListNode;
-
-import java.util.function.Function;
+import structure.ListNode;
 
 
 /**

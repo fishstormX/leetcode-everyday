@@ -2,7 +2,7 @@ package leetcode.bfs;
 
 import aspect.FunctionRunner;
 import aspect.ListUtil;
-import leetcode.structure.TreeNode;
+import structure.TreeNode;
 import util.TreeUtil;
 
 import java.util.*;

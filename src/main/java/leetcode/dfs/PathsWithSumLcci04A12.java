@@ -2,7 +2,7 @@ package leetcode.dfs;
 
 import aspect.FunctionRunner;
 import javafx.util.Pair;
-import leetcode.structure.TreeNode;
+import structure.TreeNode;
 import util.TreeUtil;
 
 import java.util.Stack;

@@ -1,7 +1,7 @@
 package leetcode.dfs;
 
 import aspect.FunctionRunner;
-import leetcode.structure.TreeNode;
+import structure.TreeNode;
 import util.TreeUtil;
 
 /**

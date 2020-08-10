@@ -1,6 +1,6 @@
-package leetcode.structure.binaryTree;
+package structure.binaryTree;
 
-import leetcode.structure.TreeNode;
+import structure.TreeNode;
 import util.TreeUtil;
 
 import java.util.ArrayList;

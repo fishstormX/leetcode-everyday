@@ -1,6 +1,6 @@
 package util;
 
-import leetcode.structure.TreeNode;
+import structure.TreeNode;
 
 import java.util.LinkedList;
 import java.util.Queue;
