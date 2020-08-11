@@ -16,14 +16,16 @@
 ---
 
 ### 剑指Offer
-3: [数字中的重复数字](src/main/java/faceoffer/FindRepeatNumber3.java)  
-4: [二维数组中的查找](src/main/java/faceoffer/FindNumberIn2DArray4.java)  
-5：[替换空格](src/main/java/faceoffer/ReplaceSpace5.java)
-6：[从尾到头打印链表](src/main/java/faceoffer/ReversePrint6.java)
-7：[重建二叉树](src/main/java/faceoffer/BuildTree7.java)
-9：[用两个栈实现队列](src/main/java/faceoffer/CQueue9.java)
-10-1：[斐波那契数列](src/main/java/faceoffer/Fib10A1.java)
-10-2：[青蛙跳台阶问题](src/main/java/faceoffer/Upstairs10A2.java)
+3: [数字中的重复数字](src/main/java/faceoffer/I/FindRepeatNumber3.java)  
+4: [二维数组中的查找](src/main/java/faceoffer/I/FindNumberIn2DArray4.java)  
+5：[替换空格](src/main/java/faceoffer/I/ReplaceSpace5.java)
+6：[从尾到头打印链表](src/main/java/faceoffer/I/ReversePrint6.java)
+7：[重建二叉树](src/main/java/faceoffer/I/BuildTree7.java)
+9：[用两个栈实现队列](src/main/java/faceoffer/I/CQueue9.java)
+10-1：[斐波那契数列](src/main/java/faceoffer/I/Fib10A1.java)
+10-2：[青蛙跳台阶问题](src/main/java/faceoffer/I/Upstairs10A2.java)
+
+11：[旋转数组的最小数字](src/main/java/faceoffer/II/MinArray11.java)
 
 ---
 
