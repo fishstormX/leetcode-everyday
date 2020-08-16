@@ -27,7 +27,7 @@ public class MinArray11 {
     }
     /**
      * 单纯考察二分法，不要用遍历
-     * */
+     * */   
     public int minArray(int[] numbers) {
         int l = 0, r = numbers.length - 1;
         while (l < r) {

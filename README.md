@@ -26,6 +26,7 @@
 10-2：[青蛙跳台阶问题](src/main/java/faceoffer/I/Upstairs10A2.java)
 
 11：[旋转数组的最小数字](src/main/java/faceoffer/II/MinArray11.java)
+15：[二进制中1的个数](src/main/java/faceoffer/II/HammingWeight15.java)
 
 ---
 
