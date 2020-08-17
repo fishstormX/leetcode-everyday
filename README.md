@@ -29,7 +29,9 @@
 12：[矩阵中的路径](src/main/java/faceoffer/II/Exist12.java)
 15：[二进制中1的个数](src/main/java/faceoffer/II/HammingWeight15.java)
 17：[打印从1到最大的n位数](src/main/java/faceoffer/II/PrintNumbers17.java)
-18：[删除链表的节点](src/main/java/faceoffer/II/PrintNumbers17.java)
+18：[删除链表的节点](src/main/java/faceoffer/II/DeleteNode18.java)
+
+21：[调整数组顺序使奇数位于偶数前面](src/main/java/faceoffer/III/Exchange21.java) 
 
 ---
 
