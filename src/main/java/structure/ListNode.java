@@ -13,7 +13,7 @@ public class ListNode {
        * 在控制台递归输出一个链表元素
        * */
       public static void printNodeList(ListNode node){
-          while(node.next!=null){
+          while(node!=null){
               System.out.print(node.val+" -> ");
               node = node.next;
           }

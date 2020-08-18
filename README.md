@@ -32,6 +32,9 @@
 18：[删除链表的节点](src/main/java/faceoffer/II/DeleteNode18.java)
 
 21：[调整数组顺序使奇数位于偶数前面](src/main/java/faceoffer/III/Exchange21.java) 
+22：[链表中倒数第k个节点](src/main/java/faceoffer/III/GetkthFromEnd22.java) 
+23：[链表中环的入口节点](src/main/java/faceoffer/III/HasCircle23A1.java) 
+23：[找到链表中环的入口](src/main/java/faceoffer/III/DetectCycle23A2.java) 
 
 ---
 
