@@ -12,7 +12,7 @@ public class FunctionRunner implements FunctionTest {
     public void run(){
         long timeline=System.currentTimeMillis();
         this.functionTest.handle();
-        System.out.println("用时"+(System.currentTimeMillis()-timeline)+"ms");
+        System.out.println("\n用时"+(System.currentTimeMillis()-timeline)+"ms");
     }
 
     @Override

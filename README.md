@@ -33,8 +33,10 @@
 
 21：[调整数组顺序使奇数位于偶数前面](src/main/java/faceoffer/III/Exchange21.java) 
 22：[链表中倒数第k个节点](src/main/java/faceoffer/III/GetkthFromEnd22.java) 
-23：[链表中环的入口节点](src/main/java/faceoffer/III/HasCircle23A1.java) 
-23：[找到链表中环的入口](src/main/java/faceoffer/III/DetectCycle23A2.java) 
+23-1：[链表中环的入口节点](src/main/java/faceoffer/III/HasCircle23A1.java) 
+23-2：[找到链表中环的入口](src/main/java/faceoffer/III/DetectCycle23A2.java) 
+24：[反转链表](src/main/java/faceoffer/III/ReverseList24.java) 
+25：[合并两个排序的链表](src/main/java/faceoffer/III/MergeTwoLists25.java) 
 
 ---
 
