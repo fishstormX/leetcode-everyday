@@ -16,8 +16,8 @@
 ---
 
 ### 剑指Offer
-3: [数字中的重复数字](src/main/java/faceoffer/I/FindRepeatNumber3.java)  
-4: [二维数组中的查找](src/main/java/faceoffer/I/FindNumberIn2DArray4.java)  
+3: [数字中的重复数字](src/main/java/faceoffer/I/FindRepeatNumber3.java) 
+4: [二维数组中的查找](src/main/java/faceoffer/I/FindNumberIn2DArray4.java) 
 5：[替换空格](src/main/java/faceoffer/I/ReplaceSpace5.java)
 6：[从尾到头打印链表](src/main/java/faceoffer/I/ReversePrint6.java)
 7：[重建二叉树](src/main/java/faceoffer/I/BuildTree7.java)
@@ -29,7 +29,7 @@
 12：[矩阵中的路径](src/main/java/faceoffer/II/Exist12.java)
 15：[二进制中1的个数](src/main/java/faceoffer/II/HammingWeight15.java)
 17：[打印从1到最大的n位数](src/main/java/faceoffer/II/PrintNumbers17.java)
-18：[删除链表的节点](src/main/java/faceoffer/II/DeleteNode18.java)
+18：[删除链表的节点](src/main/java/faceoffer/II/DeleteNode18.java)  
 
 21：[调整数组顺序使奇数位于偶数前面](src/main/java/faceoffer/III/Exchange21.java) 
 22：[链表中倒数第k个节点](src/main/java/faceoffer/III/GetkthFromEnd22.java) 
@@ -37,6 +37,7 @@
 23-2：[找到链表中环的入口](src/main/java/faceoffer/III/DetectCycle23A2.java) 
 24：[反转链表](src/main/java/faceoffer/III/ReverseList24.java) 
 25：[合并两个排序的链表](src/main/java/faceoffer/III/MergeTwoLists25.java) 
+26：[树的子结构](src/main/java/faceoffer/III/IsSubStructure26.java)  
 
 ---
 
