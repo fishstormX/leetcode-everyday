@@ -48,6 +48,9 @@ public class IsSubStructure26 {
             System.out.println(new IsSubStructure26().isSubStructure(t1,t2));
         }).run();
     }
+    /**
+     * 递归去比较
+     * */
     public boolean isSubStructure(TreeNode A, TreeNode B) {
         if(A == null||B==null){
             return false;
