@@ -42,6 +42,8 @@
 26：[树的子结构](src/main/java/faceoffer/III/IsSubStructure26.java) 
 27：[二叉树的镜像](src/main/java/faceoffer/III/MirrorTree27.java) 
 28：[对称的二叉树](src/main/java/faceoffer/III/IsSymmetric28.java) 
+29：[顺时针打印矩阵](src/main/java/faceoffer/III/SpiralOrder29.java) 
+30：[包含min函数的栈](src/main/java/faceoffer/III/MinStack30.java) 
 
 ---
 
