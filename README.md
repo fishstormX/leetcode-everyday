@@ -45,6 +45,8 @@
 29：[顺时针打印矩阵](src/main/java/faceoffer/III/SpiralOrder29.java) 
 30：[包含min函数的栈](src/main/java/faceoffer/III/MinStack30.java) 
 
+31：[栈的压入、弹出序列](src/main/java/faceoffer/IV/ValidateStackSequences31.java) 
+
 ---
 
 ### 按算法分类
