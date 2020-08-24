@@ -47,8 +47,9 @@
 
 31：[栈的压入、弹出序列](src/main/java/faceoffer/IV/ValidateStackSequences31.java) 
 34：[二叉树中和为某一值的路径](src/main/java/faceoffer/IV/PathSum34.java) 
+36：[二叉搜索树与双向链表](src/main/java/faceoffer/IV/TreeToDoublyList36.java) 
 
----34. 二叉树中和为某一值的路径
+---
 
 ### 按算法分类
 #### DFS
