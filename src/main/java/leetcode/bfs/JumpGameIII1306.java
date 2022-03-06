@@ -1,7 +1,7 @@
 package leetcode.bfs;
 
 import aspect.FunctionRunner;
-import javafx.util.Pair;
+import structure.Pair;
 
 import java.util.LinkedList;
 import java.util.Queue;

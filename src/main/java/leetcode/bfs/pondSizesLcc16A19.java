@@ -1,6 +1,6 @@
 package leetcode.bfs;
 
-import javafx.util.Pair;
+import structure.Pair;
 
 import java.util.*;
 

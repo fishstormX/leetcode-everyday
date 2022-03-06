@@ -52,6 +52,12 @@
 
 ---
 
+### 按数据类型分类
+#### 链表
+
+23: [合并K个有序链表](src/main/java/leetcode/listnode/MergeKLists23.java)
+
+
 ### 按算法分类
 #### DFS
 深度优先  
@@ -78,3 +84,4 @@
 
 62: [不同路径](src/main/java/leetcode/dp/HouseRobberII213.java)
 213: [打家劫舍II](src/main/java/leetcode/dp/HouseRobberII213.java)
+
